@@ -90,7 +90,7 @@ const Midsection = () => {
 
         {/* This section is for the div9 */}
         <div className="grid w-screen place-items-center mb-20 py-20 ">
-          <img src={div9}></img>
+          <img src={div10_1}></img>
         </div>
 
         {/* This is for the footer */}
