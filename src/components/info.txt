@@ -1,0 +1,13 @@
+-> banner part is complete and now I am doing the image addinng part.
+-. request a demo butto not in center
+-. the next page where the property details show up is in C:\react project digilabs\src\pages\PropertyDetails.js
+- font is plus jatarka sans
+
+// https://tailwindcss.com/docs/grid-template-columns
+This is useful for rendering the grid components
+The get started button is breaking at width 935px
+
+how to create grid and how to make them responsive
+->last second compoenent responsive
+->designing footer
+->designing last 3rd div
