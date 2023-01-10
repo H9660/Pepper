@@ -15,9 +15,8 @@ import div6_4 from "../assets/img/images/DIV6_4.png";
 import div6_5 from "../assets/img/images/DIV6_5.png";
 import div6_6 from "../assets/img/images/DIV6_6.png";
 import div7 from "../assets/img/images/div7.png";
-import div8_1 from "../assets/img/images/DIV_8_1.svg";
 import div8_2_3_4_res from "../assets/img/images/DIV_2_3_4_RES.svg";
-import div9_1 from "../assets/img/images/DIV_9_1.png";   
+import div9 from "../assets/img/images/DIV_9_BG.png";   
 import div10_1 from "../assets/img/images/DIV_10_1.png";
 import div10_2 from "../assets/img/images/DIV_10_2.png";
 
@@ -90,8 +89,8 @@ const Midsection = () => {
         </div>
 
         {/* This section is for the div9 */}
-        <div class="grid w-screen place-items-center mb-20 py-20 bg-div9bg bg-no-repeat bg-center bg-coverbg">
-          <img src={div9_1}></img>
+        <div className="grid w-screen place-items-center mb-20 py-20 ">
+          <img src={div9}></img>
         </div>
 
         {/* This is for the footer */}
