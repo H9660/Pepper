@@ -30,14 +30,6 @@ module.exports = {
       spacing: {
         ms: "0.0075rem",
       },
-
-      backgroundImage: {
-        div9bg:
-          "url('C:/react project digilabs/src/assets/img/images/DIV_9_BG.png')",
-        div9bg_res:
-          "url('C:/react project digilabs/src/assets/img/images/DIV_9_BG_RPS.png')",
-      },
-
       
     },
   },
